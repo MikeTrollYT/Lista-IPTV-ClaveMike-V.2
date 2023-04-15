@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="ClaveMike" tvg-name="ClaveMike" tvg-logo="blob:https://web.telegram.org/a22a51d6-8bf9-44a6-9ddf-95a90b26231b" group-title="APOYAME",ClaveMike
+https://app.viloud.tv/hls/channel/4bde22cfd636bf010ca0950285e54292.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││SPORTS HD││MOVISTAR PLUS (N)" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││SPORTS HD││MOVISTAR PLUS (N)
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/451
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││ESPN││ [HD]  (N)" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" group-title="││TV││ ⛹️ ESPN ⛹️",││ESPN││ [HD]  (N)
