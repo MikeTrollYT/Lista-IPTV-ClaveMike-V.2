@@ -9,14 +9,22 @@ CANALES DE ESPAÑA TDT
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/771
 #EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="TDT España",La 2
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/853
+#EXTINF:-1 tvg-id="I669.16217.schedulesdirect.org" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png" group-title="TDT España",TVE
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181542
 #EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antena3_int.png" group-title="TDT España",Antena 3
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/775
+#EXTINF:-1 tvg-id="I43.90309.schedulesdirect.org" tvg-name="Antena 3 (Antiguo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="TDT España",Antena 3 (Antiguo)
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181543
 #EXTINF:-1 tvg-id="" tvg-name="La Cuatro" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="TDT España",La Cuatro
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/772
+#EXTINF:-1 tvg-id="" tvg-name="La Cuatro (Opcion 2)" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="TDT España",La Cuatro (Opcion 2)
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1406
 #EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="TDT España",Telecinco
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/773
 #EXTINF:-1 tvg-id="" tvg-name="LaSexta" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="TDT España",LaSexta
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/839
+#EXTINF:-1 tvg-id="" tvg-name="LaSexta (Opcion 2)" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="TDT España",LaSexta (Opcion 2)
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1360
 #EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="TDT España",Mega
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/780
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="TDT España",DMAX
@@ -43,10 +51,12 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1364
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1408
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ENERGY SD" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="TDT España",││ESP││ENERGY SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1367
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ENERGY " tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="TDT España",││ESP││ENERGY 
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ENERGY" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="TDT España",││ESP││ENERGY 
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/854
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││BE MAD SD" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="TDT España",││ESP││BE MAD SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1368
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ TELEDEPORTE FHD" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="TDT España",││ESP││ TELEDEPORTE FHD
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/844
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││TELEMADRID FHD" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="TDT España",││ESP││TELEMADRID FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/845
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││LA 7 TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/LaSiete_2012.png" group-title="TDT España",││ESP││LA 7 TV SD
@@ -65,7 +75,14 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/828
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/173184
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ONDA CADIZ" tvg-logo="http://adc-ondemand.flumotion.com/upload/image/2020/5/logo-onda-cadiz-16-9-5ebcf6f7.png" group-title="TDT España",CANAL ONDA CADIZ
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/173186
-
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ TOROS FHD" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="TDT España",││ESP││ TOROS FHD
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/791
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ LOCAL TOROS SD" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="TDT España",││ESP││ LOCAL TOROS SD
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1437
+#EXTINF:-1 tvg-id="" tvg-name="││TOROS││  [HD] " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="TDT España",││TOROS││  [HD] 
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/31397
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ TEN CHANNEL FHD" tvg-logo="https://static.epg.best/es/Ten.es.png" group-title="TDT España",││ESP││ TEN CHANNEL FHD
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/826
 
 
 
@@ -76,29 +93,47 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/173186
 
 
 CANALES INFANTILES
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ BOING SD" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Dibujos Animados",││ESP││ BOING SD
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Dibujos Animados",Boing
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1370
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││DISNEY CHANNEL FHD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Dibujos Animados",││ESP││DISNEY CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Dibujos Animados",Disney Channel
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/785
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ DISNEY CHANNEL SD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Dibujos Animados",││ESP││ DISNEY CHANNEL SD
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (Opcion 2)" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Dibujos Animados",Disney Channel (Opcion 2)
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1407
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││DISNEY JR SD" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="Dibujos Animados",││ESP││DISNEY JR SD
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="Dibujos Animados",Disney JR
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1373
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ NICKELEODEON SD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="Dibujos Animados",││ESP││ NICKELEODEON SD
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="Dibujos Animados",Nickelodeon
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1372
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││NICKELODEON FHD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="Dibujos Animados",││ESP││NICKELODEON FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (Opcion 2)" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="Dibujos Animados",Nickelodeon (Opcion 2)
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/842
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ NICK JR SD" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="Dibujos Animados",││ESP││ NICK JR SD
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="Dibujos Animados",Nick JR
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1375
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Una casa de locos" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91OoKJ8kzvL.jpg" group-title="Dibujos Animados",24/7 Una casa de locos
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/79400
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││BABY TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="Dibujos Animados",││ESP││BABY TV SD
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="Dibujos Animados",Baby TV
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1376
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ PANDA SD" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="Dibujos Animados",││ESP││ PANDA SD
+#EXTINF:-1 tvg-id="" tvg-name="Panda" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="Dibujos Animados",Panda
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1371
 
 
 
+
+Canales MovistarPlus
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Platino" tvg-logo="https://static.epg.best/es/MovistarCineEspanol.es.png" group-title="MovistarPlus",Movistar Platino
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1388
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Superagentes" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_2.png" group-title="MovistarPlus",Movistar Superagentes
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1430
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Platino (Opcion 2)" tvg-logo="https://static.epg.best/es/DCineEspanol.es.png" group-title="MovistarPlus",Movistar Platino (Opcion 2)
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1387
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Movistar #0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="MovistarPlus",Movistar #0
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/793
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Movistar #0 (Opcion 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="MovistarPlus",Movistar #0 (Opcion 2)
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1396
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="MovistarPlus",Movistar Estrenos
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/824
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos (Opcion 2)" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="MovistarPlus",Movistar Estrenos (Opcion 2)
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181413
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="MovistarPlus",Movistar Estrenos 2
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181412
 
 
 
@@ -122,14 +157,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/26629
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/63523
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS FHD**" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",CHAMPIONS FHD**
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/63524
-#EXTINF:-1 tvg-id="I669.16217.schedulesdirect.org" tvg-name="TVE_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png" group-title="SKY PANAMA ✮",TVE_HD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181542
-#EXTINF:-1 tvg-id="I43.90309.schedulesdirect.org" tvg-name="ANTENA_3_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="SKY PANAMA ✮",ANTENA_3_HD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181543
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ LA CUATRO FHD" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││ LA CUATRO FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/772
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││TELECINCO FHD" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││TELECINCO FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/773
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ RT ESPANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ RT ESPANA FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/776
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ CALLE 13 FHD" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ CALLE 13 FHD
@@ -150,24 +177,16 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/788
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/789
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││NATIONAL GEOGRAFIC FHD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││NATIONAL GEOGRAFIC FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/790
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ TOROS FHD" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││ TOROS FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/791
 #EXTINF:-1 tvg-id="" tvg-name="LOCAL ESPAÑA  #V FHD" tvg-logo="https://static.epg.best/es/Cero.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL ESPAÑA  #V FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/794
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR CRIMEN SD" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_2.png" group-title="││TV││ CINE ESPAÑA",││ESP││MOVISTAR CRIMEN SD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1430
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││SUNDANCE TV " tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││SUNDANCE TV 
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1432
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ SYFY SD" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ SYFY SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1433
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││LOCAL ESPAÑA TCM SD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││LOCAL ESPAÑA TCM SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1434
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││| TELECINCO SD" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││| TELECINCO SD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1435
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ LOCAL TNT SD" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ LOCAL TNT SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1436
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ LOCAL TOROS SD" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││ LOCAL TOROS SD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1437
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ VH1 SD" tvg-logo="https://zap2it.tmsimg.com///zap2it.tmsimg.com/h3/NowShowing/11218/s11218_h3_aa.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ VH1 SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1438
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ MOVISTAR SERIESMANIA SD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ MOVISTAR SERIESMANIA SD
@@ -184,8 +203,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1411
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1410
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DREAMWORKS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="││TV││ CINE ESPAÑA",││KIDS││ DREAMWORKS SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1409
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ CUATRO " tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││ CUATRO 
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1406
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││COSMO SD" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││COSMO SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1405
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ COMEDY CENTRAL SD" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ COMEDY CENTRAL SD
@@ -208,18 +225,12 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1421
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1418
 #EXTINF:-1 tvg-id="" tvg-name="(ESPAÑA)  #VAMOS FULL HD" tvg-logo="https://static.epg.best/es/Cero.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",(ESPAÑA)  #VAMOS FULL HD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1397
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="LOCAL ESPAÑA #0 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL ESPAÑA #0 SD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1396
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ NATIONAL GEOGRAFIC SD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ NATIONAL GEOGRAFIC SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1395
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││CANAL COCINA SD" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││CANAL COCINA SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1393
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ INTERECONOMIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ INTERECONOMIA SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1392
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ MOVISTAR CINE SD" tvg-logo="https://static.epg.best/es/MovistarCineEspanol.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ MOVISTAR CINE SD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1388
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ D CINE ESPAÑOL SD" tvg-logo="https://static.epg.best/es/DCineEspanol.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ D CINE ESPAÑOL SD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1387
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││BOM CINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1280px-Logo-bom.svg.png" group-title="││TV││ CINE ESPAÑA",││ESP││BOM CINE SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1386
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││MTV " tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││MTV 
@@ -232,16 +243,12 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1380
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1379
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││DISCOVERY CHANNEL " tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││DISCOVERY CHANNEL 
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1378
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││DMAX SD" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││DMAX SD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1377
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││COCINA SD" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││COCINA SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1363
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ VIAJAR SD" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ VIAJAR SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1362
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││DE CASA SD" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││DE CASA SD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1361
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ LA SEXTA SD" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││ LA SEXTA SD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1360
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││DARK FHD" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││DARK FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/850
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ A PUNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/100px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ A PUNT FHD
@@ -250,16 +257,10 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/849
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/847
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││SELEKT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Select_sport_logo.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││SELEKT FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/843
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││LA SEXTA FHD" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││LA SEXTA FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/839
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││DISCOVERY CHANNEL FHD" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││DISCOVERY CHANNEL FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/836
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ TEN CHANNEL FHD" tvg-logo="https://static.epg.best/es/Ten.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││ TEN CHANNEL FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/826
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││| MOVISTAR CINE DOC&ROLL FHD" tvg-logo="https://static.epg.best/es/MovistarCineDocRoll.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││| MOVISTAR CINE DOC&ROLL FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/825
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR ESTRENOS FHD" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││MOVISTAR ESTRENOS FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/824
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ MOVISTAR SERIES FHD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ MOVISTAR SERIES FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/822
 #EXTINF:-1 tvg-id="" tvg-name="[ESPAÑA] MOVISTAR DRAMA FHD LOCAL" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="││TV││ CINE ESPAÑA",[ESPAÑA] MOVISTAR DRAMA FHD LOCAL
@@ -302,8 +303,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/31379
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/31392
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HD (265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/800px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",CHAMPIONS HD (265)
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/31393
-#EXTINF:-1 tvg-id="" tvg-name="││TOROS││  [HD] " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="││TV││ ⛹️ DEPORTE EUROPA ⛹️",││TOROS││  [HD] 
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/31397
 #EXTINF:-1 tvg-id="" tvg-name="ES_BLAZER HD" tvg-logo="" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",ES_BLAZER HD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/41489
 #EXTINF:-1 tvg-id="" tvg-name="ES_BLAZER_FULL_HD" tvg-logo="" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",ES_BLAZER_FULL_HD
@@ -334,10 +333,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/173194
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/173195
 #EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="││TV││ CINE ESPAÑA",XTRM HD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/173196
-#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││TV││ CINE ESPAÑA",M. ESTRENOS 2 HD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181412
-#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││TV││ CINE ESPAÑA",M. ESTRENOS 2 FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181413
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││  ⛹️ LIGA ESPAÑOLA  ⛹️││",DAZN LA LIGA HD+
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191052
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA SD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/800px-DAZN_LaLiga_logo.svg.png" group-title="││  ⛹️ LIGA ESPAÑOLA  ⛹️││",DAZN LIGA SD+
@@ -354,8 +349,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/75
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/73
 #EXTINF:-1 tvg-id="" tvg-name="LOCAL ESPAÑA MOVISTAR DEPORTE 3 FHD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL ESPAÑA MOVISTAR DEPORTE 3 FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/840
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ TELEDEPORTE FHD" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="││TV││ TDT ESPAÑA",││ESP││ TELEDEPORTE FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/844
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR DEPORTES 2" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",││ESP││MOVISTAR DEPORTES 2
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1423
 #EXTINF:-1 tvg-id="" tvg-name="LOCAL ESPAÑA MOVISTAR DEPORTES 1 SD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL ESPAÑA MOVISTAR DEPORTES 1 SD
@@ -374,8 +367,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/797
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/796
 #EXTINF:-1 tvg-id="" tvg-name="(ESPAÑA) VAMOS SPORTS HD" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="││TV││ ⛹️ #VAMOS⛹️",(ESPAÑA) VAMOS SPORTS HD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/795
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="LOCAL ESPAÑA #0 SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL ESPAÑA #0 SPORTS  FHD
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/793
 #EXTINF:-1 tvg-id="" tvg-name="LOCAL DEPORTES FULL HD  MOVISTAR LA LIGA 2" tvg-logo="https://static.epg.best/es/MLaLiga2.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL DEPORTES FULL HD  MOVISTAR LA LIGA 2
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/24724
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES FULL HD LOCAL MOVISTAR LA LIGA 1" tvg-logo="https://static.epg.best/es/MLaLiga1.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",DEPORTES FULL HD LOCAL MOVISTAR LA LIGA 1
