@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-id="ClaveMike" tvg-name="ClaveMike" tvg-logo="blob:https://web.telegram.org/a22a51d6-8bf9-44a6-9ddf-95a90b26231b" group-title="APOYAME",ClaveMike
 https://app.viloud.tv/hls/channel/4bde22cfd636bf010ca0950285e54292.m3u8
 
-CANALES DE ESPAÑA TDT
-
 #EXTINF:-1 tvg-id="" tvg-name="La 1" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="TDT España",La 1
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/771
 #EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="TDT España",La 2
@@ -86,13 +84,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/826
 
 
 
-
-
-
-
-
-
-CANALES INFANTILES
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Dibujos Animados",Boing
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1370
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Dibujos Animados",Disney Channel
@@ -137,26 +128,53 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/181412
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="││SPORTS HD││MOVISTAR PLUS (N)" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││SPORTS HD││MOVISTAR PLUS (N)
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/451
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││ESPN││ [HD]  (N)" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" group-title="││TV││ ⛹️ ESPN ⛹️",││ESPN││ [HD]  (N)
+Otros Canales Deportes
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN (LAT)" tvg-logo="https://static.epg.best/ar/ESPN.ar.png" group-title="Otros Canales Deporte",ESPN (LAT)
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/522
-#EXTINF:-1 tvg-id="" tvg-name="││USA││BEIN SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="││TV││ USA",││USA││BEIN SPORTS
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1247
-#EXTINF:-1 tvg-id="" tvg-name="││USA││ESPN" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="││TV││⛹️ SPORTS USA ⛹️",││USA││ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (USA)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Otros Canales Deporte",ESPN (USA)
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1251
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 1" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 1
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27902
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 2" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 2
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27903
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 3" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 3
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27904
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 4" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 4
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27905
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 5" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 5
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27906
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 6" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 6
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27907
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 7" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 7
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27908
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 8" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 8
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27909
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 9" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 9
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27910
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 10" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 10
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27911
+#EXTINF:-1 tvg-id="" tvg-name="TUDN 11" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="Otros Canales Deporte",TUDN 11
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27912
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="Otros Canales Deporte",Bein Sports
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/1247
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Otros Canales Deporte",Sky Sport
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191065
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://static.epg.best/es/Eurosport1.es.png" group-title="Otros Canales Deporte",EUROSPORT 1
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/73
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (Opcion 2)" tvg-logo="https://static.epg.best/es/Eurosport1.es.png" group-title="Otros Canales Deporte",EUROSPORT 1 (Opcion 2)
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25973
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://static.epg.best/es/Eurosport2.es.png" group-title="Otros Canales Deporte",EUROSPORT 2
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/74
+#EXTINF:-1 tvg-id="" tvg-name="GOLF" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Otros Canales Deporte",GOLF 
+http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/75
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Liga de Campeones de la UEFA 1.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",Liga de Campeones de la UEFA 1.0
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/26383
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR LA  LIGA  4k" tvg-logo="http://tvstar.cc:8880/chimg/3703620311.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",││ESP││MOVISTAR LA  LIGA  4k
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/26629
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HD**" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",CHAMPIONS HD**
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/63523
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS FHD**" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",CHAMPIONS FHD**
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/63524
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ RT ESPANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ RT ESPANA FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/776
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ CALLE 13 FHD" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ CALLE 13 FHD
@@ -341,12 +359,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191053
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191054
 #EXTINF:-1 tvg-id="" tvg-name="LOCAL DEPORTES SD  MOVISTAR LIGA DE CAMPEONES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL DEPORTES SD  MOVISTAR LIGA DE CAMPEONES
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/72
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL DEPORTES SD  EURO SPORTS 2" tvg-logo="https://static.epg.best/es/Eurosport2.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL DEPORTES SD  EURO SPORTS 2
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/74
-#EXTINF:-1 tvg-id="" tvg-name="││GOLF CHANNEL││ [SD]  " tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="││TV││ ⛹️ DEPORTE EUROPA ⛹️",││GOLF CHANNEL││ [SD]  
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/75
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL DEPORTES SD EURO SPORTS 1" tvg-logo="https://static.epg.best/es/Eurosport1.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL DEPORTES SD EURO SPORTS 1
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/73
 #EXTINF:-1 tvg-id="" tvg-name="LOCAL ESPAÑA MOVISTAR DEPORTE 3 FHD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL ESPAÑA MOVISTAR DEPORTE 3 FHD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/840
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR DEPORTES 2" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",││ESP││MOVISTAR DEPORTES 2
@@ -383,12 +395,8 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/24738
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/24739
 #EXTINF:-1 tvg-id="" tvg-name="LOCAL ESPAÑA  MOVISTAR LIGA DE CAMPEONES 7 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_7.png" group-title="││TV││⛹️ DEPORTE ESPAÑA ⛹️OP 3",LOCAL ESPAÑA  MOVISTAR LIGA DE CAMPEONES 7 HD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/24740
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ MOVISTAR  LA  LIGA  SD (Opc 2) " tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",││ESP││ MOVISTAR  LA  LIGA  SD (Opc 2) 
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25929
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ MOVISTAR  LA LIGA  HD (Opc 2 +)" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",││ESP││ MOVISTAR  LA LIGA  HD (Opc 2 +)
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25931
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR  LA LIGA HD (Opc 2)" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",││ESP││MOVISTAR  LA LIGA HD (Opc 2)
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25932
 #EXTINF:-1 tvg-id="" tvg-name=" ││ESP││MOVISTAR  LA LIGA FHD (Opc 2+)" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️", ││ESP││MOVISTAR  LA LIGA FHD (Opc 2+)
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25933
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR  LA LIGA FHD (Opc 2)" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",││ESP││MOVISTAR  LA LIGA FHD (Opc 2)
@@ -433,10 +441,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25965
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25966
 #EXTINF:-1 tvg-id="" tvg-name=" ││#VAMOS││OP  [FHD] " tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png" group-title="││TV││ ⛹️ #VAMOS⛹️", ││#VAMOS││OP  [FHD] 
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25972
-#EXTINF:-1 tvg-id="" tvg-name="││ESP││ EUROSPORT 1 + [OPC]" tvg-logo="https://static.epg.best/es/Eurosport2.es.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",││ESP││ EUROSPORT 1 + [OPC]
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/25973
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES M. 00" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",LIGA DE CAMPEONES M. 00
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/26546
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR LA LIGA 1 FHD OPC 2" tvg-logo="http://tvstar.cc:8880/chimg/3703620311.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",││ESP││MOVISTAR LA LIGA 1 FHD OPC 2
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/26626
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││   LA  LIGA 2" tvg-logo="http://tvstar.cc:8880/chimg/2819468010.png" group-title="││TV││⛹️ DEPORTE ESPAÑA OPC2 ⛹️",││ESP││   LA  LIGA 2
@@ -479,28 +483,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/26844
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/26845
 #EXTINF:-1 tvg-id="" tvg-name="[ES] MOVISTAR FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="││TV││ ⛹️ DEPORTE ESPAÑA OPC 1  ⛹️",[ES] MOVISTAR FORMULA 1 HD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/26848
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 1" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 1
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27902
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 2" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 2
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27903
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 3" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 3
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27904
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 4" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 4
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27905
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 5" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 5
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27906
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 6" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 6
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27907
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 7" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 7
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27908
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 8" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 8
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27909
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 9" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 9
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27910
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 10" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 10
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27911
-#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 11" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="  ││⛹️ TUDN EXTRA  EN ESPAÑOL ⛹️││",TUDN XTRA 11
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/27912
 #EXTINF:-1 tvg-id="" tvg-name="[ES] MOVISTAR LA LIGA  HD" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="││TV││ ⛹️ DEPORTE ESPAÑA OPC 1  ⛹️",[ES] MOVISTAR LA LIGA  HD
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/28035
 #EXTINF:-1 tvg-id="" tvg-name="││#VAMOS││ OP1 [HD]" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png" group-title="││TV││ ⛹️ #VAMOS⛹️",││#VAMOS││ OP1 [HD]
@@ -535,8 +517,6 @@ http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191062
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191063
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Liga HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="││  ⛹️ LIGA ESPAÑOLA  ⛹️││",DAZN Liga HD-
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191064
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT HDBR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="││  ⛹️ LIGA ESPAÑOLA  ⛹️││",SKY SPORT HDBR
-http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191065
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA  HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="││  ⛹️ LIGA ESPAÑOLA  ⛹️││",DAZN LA LIGA  HD+
 http://brandstrea.org:8080/J0s3c0rt3s/J0s3c0rt3s/191066
 #EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││  ⛹️ LIGA ESPAÑOLA  ⛹️││",LIGA CAMPEONES HD+
